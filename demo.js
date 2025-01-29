@@ -1,0 +1,12 @@
+const inputslider=document.querySelector("[data-lengthSlider]");
+const lengthnumber=document.querySelector("[data-lengthNumber]");
+const passwordDisplay=document.querySelector("[data-passwordDisplay]");
+const display_container=document.querySelector("#display-container");
+const data_copyMSG=document.querySelector("[data-copyMSG]");
+const strength_container=document.querySelector("#strength-container");
+const length_container=document.querySelector("#length-container");
+const input_container=document.querySelector("#input-container");
+const symBols=document.querySelector(".symbols");
+const nuMbers=document.querySelector(".numbers");
+const lowerCase=document.querySelector(".lowercase");
+const upperCase=document.querySelector(".uppercase");
